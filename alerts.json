@@ -1,0 +1,12 @@
+[
+    {
+        "source": "Microsoft-Windows-Sysmon/Operational",
+        "event_id": 4625,
+        "time": "2026-05-07 02:06:01",
+        "computer": "DESKTOP-BBS5UMB",
+        "message": "<The description for Event ID ( 4625 ) in Source ( 'EventSystem' ) could not be found. It contains the following insertion string(s):'86400, SuppressDuplicateDuration, Software\\\\Microsoft\\\\EventSystem\\\\EventLog'.>",
+        "EventID": 4625,
+        "EventType": 4,
+        "alert": "Failed Login Attempt"
+    }
+]
